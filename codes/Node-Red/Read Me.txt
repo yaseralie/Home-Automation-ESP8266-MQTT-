@@ -1,0 +1,7 @@
+Before Import Flows, please install these nodes:
+Click Manage Pallete, click Install Tab and search to find node.
+1. Dashboard:
+node-red-dashboard
+2. SVG
+node-red-contrib-ui-svg
+node-red-contrib-drawsvg
